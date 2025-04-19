@@ -2,6 +2,7 @@
 # QA Code Quiz - Login Functionality Tests
 
 This repository contains Cypress tests to verify the login functionality of the "QA Code Quiz" platform, covering both positive and negative test scenarios.
+<img width="1012" alt="Screenshot 2025-04-19 at 11 42 37 AM" src="https://github.com/user-attachments/assets/1e2c6a0e-0db4-45df-80e2-374bb350740e" />
 
 ## Test Scenarios
 
